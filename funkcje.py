@@ -1,16 +1,4 @@
-#### ZADANIE 1
 
-# print("Wpisz dwie liczby do odjęcia.")
-# a = int(input())
-# b = int(input())
-
-# def odejmowanie(x,y):
-#     wynik = x-y
-#     return wynik
-
-# obliczony_wynik = odejmowanie(a,b)
-
-# print("Wynik odejmowania to", obliczony_wynik)
 
 
 #### ZADANIE 3
@@ -61,3 +49,6 @@ def alternatywa(x,y):
         print("Elementy alternatywy nie przyjmują wartości 1 lub 0")
 
 print(alternatywa(a,b))
+
+
+#zadanie nieistniejące na końcu
