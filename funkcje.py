@@ -13,17 +13,6 @@
 # print("Wynik odejmowania to", obliczony_wynik)
 
 
-### ZADANIE 2
-
-def ostatni(lista):
-    return lista[-1]
-
-innalista =[]
-for i in range(-5,6):
-    innalista.append(i)
-# print("Lista", innalista)
-# print("Ostatni jej element to", ostatni(innalista))
-
 #### ZADANIE 3
 
 def ogon(lista):
